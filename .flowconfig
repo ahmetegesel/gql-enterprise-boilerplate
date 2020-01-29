@@ -1,5 +1,6 @@
 [ignore]
-<PROJECT_ROOT>/dist/
+.*/dist/.*
+.*/node_modules/.*
 
 [include]
 
