@@ -1,3 +1,3 @@
-# gql-samples
+# graphql-compose-poc
 
-Samples are separeted to branches.
+A PoC project to experiment graphql-compose library.
